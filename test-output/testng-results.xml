@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-24T03:23:00 GMT-05:00" name="Suite" finished-at="2020-09-24T03:27:24 GMT-05:00" duration-ms="263851">
+    <groups>
+    </groups>
+    <test started-at="2020-09-24T03:23:00 GMT-05:00" name="Test" finished-at="2020-09-24T03:27:24 GMT-05:00" duration-ms="263851">
+      <class name="project_Activities.Alchemypopup">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:project_Activities.Alchemypopup@10e41621]" started-at="2020-09-24T03:23:47 GMT-05:00" name="beforeClass" finished-at="2020-09-24T03:24:01 GMT-05:00" duration-ms="13639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="f()[pri:0, instance:project_Activities.Alchemypopup@10e41621]" started-at="2020-09-24T03:24:01 GMT-05:00" name="f" finished-at="2020-09-24T03:24:40 GMT-05:00" duration-ms="39267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:project_Activities.Alchemypopup@10e41621]" started-at="2020-09-24T03:24:40 GMT-05:00" name="afterClass" finished-at="2020-09-24T03:24:40 GMT-05:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- project_Activities.Alchemypopup -->
+      <class name="project_Activities.GoogleKeep">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:project_Activities.GoogleKeep@2667f029]" started-at="2020-09-24T03:25:39 GMT-05:00" name="beforeClass" finished-at="2020-09-24T03:25:54 GMT-05:00" duration-ms="14373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="googleTasks()[pri:0, instance:project_Activities.GoogleKeep@2667f029]" started-at="2020-09-24T03:25:54 GMT-05:00" name="googleTasks" finished-at="2020-09-24T03:26:14 GMT-05:00" duration-ms="20744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTasks -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:project_Activities.GoogleKeep@2667f029]" started-at="2020-09-24T03:26:14 GMT-05:00" name="afterClass" finished-at="2020-09-24T03:26:15 GMT-05:00" duration-ms="836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- project_Activities.GoogleKeep -->
+      <class name="project_Activities.AlchemyToDo">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:project_Activities.AlchemyToDo@353d0772]" started-at="2020-09-24T03:24:40 GMT-05:00" name="beforeClass" finished-at="2020-09-24T03:24:54 GMT-05:00" duration-ms="13836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="f()[pri:0, instance:project_Activities.AlchemyToDo@353d0772]" started-at="2020-09-24T03:24:54 GMT-05:00" name="f" finished-at="2020-09-24T03:25:39 GMT-05:00" duration-ms="45644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:project_Activities.AlchemyToDo@353d0772]" started-at="2020-09-24T03:25:39 GMT-05:00" name="afterClass" finished-at="2020-09-24T03:25:39 GMT-05:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- project_Activities.AlchemyToDo -->
+      <class name="project_Activities.GoogleKeepReminder">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:project_Activities.GoogleKeepReminder@67a20f67]" started-at="2020-09-24T03:26:15 GMT-05:00" name="beforeClass" finished-at="2020-09-24T03:26:29 GMT-05:00" duration-ms="13559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="googleTasks()[pri:0, instance:project_Activities.GoogleKeepReminder@67a20f67]" started-at="2020-09-24T03:26:29 GMT-05:00" name="googleTasks" finished-at="2020-09-24T03:26:51 GMT-05:00" duration-ms="22493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTasks -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:project_Activities.GoogleKeepReminder@67a20f67]" started-at="2020-09-24T03:26:51 GMT-05:00" name="afterClass" finished-at="2020-09-24T03:26:52 GMT-05:00" duration-ms="788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- project_Activities.GoogleKeepReminder -->
+      <class name="project_Activities.GoogleTask">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:project_Activities.GoogleTask@57c758ac]" started-at="2020-09-24T03:26:52 GMT-05:00" name="beforeClass" finished-at="2020-09-24T03:27:05 GMT-05:00" duration-ms="13278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="googleTasks()[pri:0, instance:project_Activities.GoogleTask@57c758ac]" started-at="2020-09-24T03:27:05 GMT-05:00" name="googleTasks" finished-at="2020-09-24T03:27:23 GMT-05:00" duration-ms="17732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTasks -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:project_Activities.GoogleTask@57c758ac]" started-at="2020-09-24T03:27:23 GMT-05:00" name="afterClass" finished-at="2020-09-24T03:27:24 GMT-05:00" duration-ms="997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- project_Activities.GoogleTask -->
+      <class name="project_Activities.AlchemyLogin">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:project_Activities.AlchemyLogin@19bb07ed]" started-at="2020-09-24T03:23:00 GMT-05:00" name="beforeClass" finished-at="2020-09-24T03:23:16 GMT-05:00" duration-ms="15476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="f()[pri:0, instance:project_Activities.AlchemyLogin@19bb07ed]" started-at="2020-09-24T03:23:16 GMT-05:00" name="f" finished-at="2020-09-24T03:23:47 GMT-05:00" duration-ms="31085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:project_Activities.AlchemyLogin@19bb07ed]" started-at="2020-09-24T03:23:47 GMT-05:00" name="afterClass" finished-at="2020-09-24T03:23:47 GMT-05:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- project_Activities.AlchemyLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
